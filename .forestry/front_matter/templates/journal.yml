@@ -1,5 +1,5 @@
 ---
-label: Journal
+label: Blog
 hide_body: false
 fields:
 - type: text
@@ -35,5 +35,3 @@ fields:
     - Felipe Mota
   label: Author
   default: Nichlas W. Andersen
-pages:
-- journal/macos-development-environment.md
