@@ -2,7 +2,8 @@
 date: 2020-07-04
 thumbnail: ''
 title: Bifrost
-categories: []
+categories:
+- Web
 project_bg_color: ''
 project_fg_color: ''
 
