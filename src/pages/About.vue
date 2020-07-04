@@ -36,7 +36,7 @@
         </ul>
       </div>
 
-      <form class="contact-form" name="contact">
+      <form class="contact-form" name="contact" data-netlify="true">
         <h1 class="contact-title">Vamos bater um papo?</h1>
         <div class="sender-info">
           <div>
