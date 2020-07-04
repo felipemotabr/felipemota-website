@@ -13,7 +13,7 @@ sections:
   - project
 - type: directory
   path: post
-  label: Journal
+  label: Blog
   create: documents
   match: "**/*.md"
   templates:
