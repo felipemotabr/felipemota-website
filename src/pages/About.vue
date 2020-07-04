@@ -1,40 +1,71 @@
 <template>
   <Layout>
     <div class="container">
-
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Olá!</h1>
+        <p>
+          Me chamo Felipe Mota, graduado em Publicidade e Propaganda e técnico
+          em Comunicação Visual. Tenho trabalhado ao longo tempo em projetos de
+          desenvolvimento de software, em Programação Front-end de aplicações
+          para Web. Venho desempenhando Design de Interface em projetos para
+          Mobile e Smartwatch.
+        </p>
+        <h3>Habilidades</h3>
+        <ul>
+          <li>Adobe Photoshop</li>
+          <li>Adobe Illustrator</li>
+          <li>Adobe XD</li>
+          <li>Figma</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>Sass</li>
+          <li>Gulp</li>
+          <li>PHP</li>
+          <li>Javascript</li>
+          <li>Jquery</li>
+          <li>NodeJS</li>
+          <li>Git</li>
+        </ul>
+        <h3>Frameworks</h3>
+        <ul>
+          <li>Wordpress</li>
+          <li>Laravel</li>
+          <li>Jekyll</li>
+          <li>Bootstrap</li>
+          <li>Scrum</li>
+        </ul>
       </div>
 
       <form class="contact-form" name="contact">
-
+        <h1 class="contact-title">Vamos bater um papo?</h1>
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Your name</label>
+            <label for="name" class="label">Seu nome</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Your email</label>
+            <label for="email" class="label">Seu e-mail</label>
             <input type="email" name="email" />
           </div>
         </div>
 
         <div class="message">
-          <label for="message" class="label">Message</label>
+          <label for="message" class="label">Mensagem</label>
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
-
+        <button class="button">Enviar</button>
       </form>
-
     </div>
   </Layout>
 </template>
 
 <script>
-export default {}
+export default {
+  metaInfo: {
+    title: "Sobre",
+  },
+};
 </script>
 
 <style scoped>
@@ -58,10 +89,12 @@ export default {}
 .sender-info > div:last-of-type {
   margin: 0;
 }
-input:focus,textarea:focus {
+input:focus,
+textarea:focus {
   border-color: var(--color-contrast-1);
 }
-input,textarea {
+input,
+textarea {
   background: transparent;
   border: 1px solid var(--color-base-1);
   outline: none;
@@ -96,4 +129,3 @@ textarea {
   border: 1px solid var(--color-base-1);
 }
 </style>
-

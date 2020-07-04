@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Felipe Mota",
+  siteUrl: `http://felipemota.com.br`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Felipe Mota",
+  siteDescription: "Felipe Mota",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
@@ -16,26 +16,26 @@ module.exports = {
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        }
-      }
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"],
+        },
+      },
     },
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "journal/**/*.md",
+        path: "post/**/*.md",
         typeName: "JournalPost",
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        }
-      }
-    }
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"],
+        },
+      },
+    },
   ],
   transformers: {
     remark: {
-      plugins: ["@gridsome/remark-prismjs"]
-    }
-  }
+      plugins: ["@gridsome/remark-prismjs"],
+    },
+  },
 };

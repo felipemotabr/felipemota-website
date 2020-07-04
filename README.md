@@ -8,40 +8,28 @@
   <a href="https://app.netlify.com/sites/gridsome-forestry/deploys"><img src="https://api.netlify.com/api/v1/badges/21965bf1-8f46-4201-afe9-98896cba865e/deploy-status" alt="Netlify Status"></a>
 </p>
 
-
-## Development
+## Desenvolvimento
 
 ```bash
-# install Gridsome globally
+# Instale o Gridsome globalmente
 npm install --global @gridsome/cli
 
-# cd into the project directory
-cd gridsome-forestry-starter
-
-# install dependencies
+# No diretório do projeto instale as dependências
 npm install
 
-# Start local dev server
+# Iniciar o projeto localmente
 npm run develop
 ```
 
-
 ## Forestry (Content Management)
 
-This project has been pre-configured to work with Forestry, just import your repository ✨  
-Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
+Este projeto foi pré-configurado para funcionar com Forestry, basta importar este repositório ✨
+Quaisquer alterações serão devolvidas ao repositório e implantadas no Netlify.
 
-<p>
-  <a href="https://app.forestry.io/quick-start?repo=itsnwa/gridsome-forestry-starter&amp;provider=github&amp;engine=vuepress" rel="nofollow"><img src="https://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667" alt="Import this project into Forestry" data-canonical-src="https://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;"></a>
-</p>
+## Deploy
 
+Importe este projeto para dentro do Netlify
 
-## Deploy with Netlify
-
-Import your site in Netlify
-
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `gridsome build`
-3. Set the publish directory to: `dist`
-
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
+1. Crie um novo site no Netlify e importe o repositório.
+2. Defina o comando para o build da aplicação: `gridsome build`
+3. Defina o diretório de publicação para: `dist`
