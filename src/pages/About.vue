@@ -40,6 +40,7 @@
         class="contact-form"
         name="contact"
         action="/success"
+        method="POST"
         data-netlify="true"
       >
         <h1 class="contact-title">Vamos bater um papo?</h1>
