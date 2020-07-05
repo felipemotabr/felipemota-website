@@ -21,4 +21,4 @@ TIPOGRAFIA
 
 ![](/uploads/2-apresentacao.jpg)
 
-![](/uploads/color.jpg)
+![](/uploads/color.jpg)![](/uploads/3-apresentacao.jpg)![](/uploads/1-apresentacao.jpg)
