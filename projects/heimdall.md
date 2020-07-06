@@ -17,7 +17,7 @@ Criação da interface do usuário para o aplicativo móvel Heimdall. Software c
 
 ### Processo de desenvolvimento
 
-Para elaborar o desenvolvimento do aplicativo, foi adotado o modelo de The Design Processs da Chicago Architecture Foundation, adaptado para a realizada da empresa. Foram realizadas as etapas de definição do problema, coleta de informação, Brainstorm, desenvolvimento da solução, apresentação da proposta e e implementação.
+Para elaborar o desenvolvimento do aplicativo, foi adotado o modelo de The Design Processs da **Chicago Architecture Foundation**, adaptado para a realizada da empresa. Foram realizadas as etapas de definição do problema, coleta de informação, Brainstorm, desenvolvimento da solução, apresentação da proposta e e implementação.
 
 ![](/uploads/design-process-chart.png)
 
