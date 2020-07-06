@@ -39,10 +39,8 @@ export default {
   position: relative;
   height: 6rem;
   z-index: 10;
-  background: #ffffff;
 }
 .header.sticky {
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;

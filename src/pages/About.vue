@@ -34,6 +34,24 @@
           <li>Bootstrap</li>
           <li>Scrum</li>
         </ul>
+        <h3>Minhas redes sociais</h3>
+        <div class="icons">
+          <a
+            href="https://www.facebook.com/perfil.felipemota"
+            target="_blank"
+            class="fa fa-facebook-square"
+          ></a>
+          <a
+            href="https://twitter.com/felipemotabr"
+            target="_blank"
+            class="fa fa-twitter-square"
+          ></a>
+          <a
+            href="https://www.behance.net/felipemotabr"
+            target="_blank"
+            class="fa fa-behance-square"
+          ></a>
+        </div>
       </div>
 
       <form
@@ -133,5 +151,15 @@ textarea {
 }
 .button:focus {
   border: 1px solid var(--color-base-1);
+}
+.icons {
+  font-size: 2rem;
+}
+.icons a {
+  opacity: 1;
+  margin-right: 0.5em;
+}
+.icons a:hover {
+  opacity: 0.5;
 }
 </style>

@@ -7,6 +7,7 @@ module.exports = {
   host: "0.0.0.0",
   titleTemplate: "%s - Felipe Mota",
   siteDescription: "Felipe Mota",
+  icon: "./static/favicon.jpg",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
