@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://file-xidfrcjkaq.now.sh/" height="240">
-  <h3 align="center">Gridsome x Forestry</h3>
-  <p align="center">A starter-kit by Nichlas W. Andersen<p>
+  <h3 align="center">Felipe Mota</h3>
+  <p align="center">Meu portfólio com projetos<p>
 </p>
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/gridsome-forestry/deploys"><img src="https://api.netlify.com/api/v1/badges/21965bf1-8f46-4201-afe9-98896cba865e/deploy-status" alt="Netlify Status"></a>
+<img src="https://api.netlify.com/api/v1/badges/3730aee3-1ed3-451e-84dc-7513c9c58c63/deploy-status" alt="Netlify Status">
 </p>
 
 ## Desenvolvimento
