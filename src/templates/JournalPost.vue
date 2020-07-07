@@ -13,10 +13,11 @@
               <span class="label">Data</span>
               <div v-text="$page.post.date" />
             </div>
-            <div class="journal-time">
+            <!--<div class="journal-time">
               <span class="label">Time</span>
               <span>{{ $page.post.timeToRead }} minuntos de leitura</span>
             </div>
+            -->
           </div>
         </div>
 
