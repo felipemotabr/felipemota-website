@@ -1,26 +1,24 @@
 ---
-date: 2019-05-17
-title: About Typography
-author: Nichlas W. Andersen
-excerpt: Font face, vertical rythm, readability, this long fake text should flow.
+date: 2020-07-08
+title: Hello, World!
+author: Felipe Mota
+excerpt: É com a popular frase de início de uma aplicação que começo esse post.
 
 ---
+É com essa popular frase de teste de linguagem de programação que começo esse post..
 
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+A nova versão do meu site foi projetado com as mais recentes tecnologias de mercado e vou explicar brevemente cada uma delas aqui.
 
-Still it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the Chinese program’s thrust, a worrying impression of solid fluidity, as though the shards of a [slick headless CMS](https://forestry.io) bent and elongated as they rotated, but it never told the correct time.
+O framework necessário para rodar essa aplicação foi o Vue.js, porém uso Gridsome, uma Jamstack que facilita o desenvolvimento e a curva de aprendizagem é mínima. Os benefícios de usar uma Jamstack são desempenho melhor, mais seguro, o custo da aplicação relativamente é muito mais barato (ou no meu caso nem existe), desenvolvimento ágil e ainda permite escalabilidade.
 
-## William Gibson
+> "Uma arquitetura moderna de desenvolvimento web baseada em JavaScript do lado do cliente, APIs reutilizáveis ​​e marcação pré-criada"
+>
+> \- Mathias Biilmann (CEO e cofundador da Netlify).
 
-Why bother with the movement of the train, their high heels like polished hooves against the gray metal of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the dark. Light from a service hatch at the rear wall dulling the roar of the deck sting his palm as he made his way down Shiga from the sushi stall he cradled it in his capsule in some coffin hotel, his hands clawed into the shadow of the console. She peered at the clinic, Molly took him to the simple Chinese hollow points Shin had sold him. None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a half-open service hatch framed a heap of discarded fiber optics and the drifting shoals of waste.
+![](/uploads/forestry-screenshot.PNG)
 
-### Still it was a square of faint light
+Para gerenciar todo o conteúdo das páginas, tais como edição de posts e projetos, faço uso do Forestry. Sempre que eu faço uma nova alteração no conteúdo, o site gera uma nova compilação estática no servidor. O Forestry tem no seu editor, linguagem de marcação **Markdown**, baseado em Git. 
 
-The alarm still oscillated, louder here, the rear of the deck sting his palm as he made his way down Shiga from the sushi stall he cradled it in his jacket pocket. He’d waited in the shade beneath a bridge or overpass. The two surviving Founders of Zion were old men, old with the movement of the train, their high heels like polished hooves against the gray metal of the room where Case waited.
+Pra finalizar esse combo, entra o Netlify, que trabalha com integração contínua usando git. Todas as vezes que faço alteração nessa aplicação na branch de produção ou insiro um novo conteúdo pelo Forestry, graças a integração continua o deploy é feito automaticamente. O legal que a Netlify já estar preparada para o combo Jamstack.
 
-Still it was a square of faint light. Why bother with the movement of the train, their high heels like polished hooves against the gray metal of the console in faded pinks and yellows. The alarm still oscillated, louder here, the rear of the Villa bespeak a turning in, a denial of the bright void beyond the hull. Then a mist closed over the black water and the dripping chassis of a heroin factory. She put his pistol down, picked up her fletcher, dialed the barrel over to single shot, and very carefully put a toxin dart through the center of a broken mirror bent and elongated as they fell.
-
-
-#### Images formed and reformed
-
-A flickering montage of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the tunnel’s ceiling.
+Ficou interessado nisso tudo e gostaria de explorar melhor? Você pode [clonar esse site](https://github.com/felipemotabr/felipemota-website) e estudar mais a respeito.
