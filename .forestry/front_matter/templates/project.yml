@@ -37,3 +37,4 @@ fields:
   label: Foreground color
 pages:
 - projects/heimdall.md
+- projects/sharebank.md
