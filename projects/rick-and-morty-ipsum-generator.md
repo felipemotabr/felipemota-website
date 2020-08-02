@@ -2,7 +2,8 @@
 date: 2019-01-04
 thumbnail: "/uploads/thumb-rick-and-morty.jpg"
 title: Rick and Morty Ipsum Generator
-categories: []
+categories:
+- Web
 project_bg_color: ''
 project_fg_color: ''
 
