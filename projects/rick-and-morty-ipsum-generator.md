@@ -1,5 +1,5 @@
 ---
-date: 2020-08-01
+date: 2019-01-04
 thumbnail: "/uploads/thumb-rick-and-morty.jpg"
 title: Rick and Morty Ipsum Generator
 categories: []
