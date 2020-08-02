@@ -37,4 +37,5 @@ fields:
   label: Foreground color
 pages:
 - projects/heimdall.md
+- projects/rick-and-morty-ipsum-generator.md
 - projects/sharebank.md
