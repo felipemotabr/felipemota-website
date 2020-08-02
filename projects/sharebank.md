@@ -2,7 +2,9 @@
 date: 2020-08-01
 thumbnail: "/uploads/1-apresentacao.jpg"
 title: Sharebank
-categories: []
+categories:
+- Mobile
+- UX Deisgn
 project_bg_color: ''
 project_fg_color: ''
 
