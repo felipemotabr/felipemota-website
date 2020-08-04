@@ -51,6 +51,11 @@
             target="_blank"
             class="fa fa-behance-square"
           ></a>
+          <a
+            href="https://www.linkedin.com/in/felipemotabr"
+            target="_blank"
+            class="fa fa-linkedin-square"
+          ></a>
         </div>
       </div>
 
