@@ -16,7 +16,8 @@ O framework necessário para rodar essa aplicação foi o Vue.js, porém uso [Gr
 > \- Mathias Biilmann (CEO e cofundador da Netlify).
 
 
-![](/uploads/forestry-screenshot.png)
+![](/uploads/forestry-screenshot-edit.png)
+
 
 Para gerenciar todo o conteúdo das páginas, tais como edição de posts e projetos, faço uso do [Forestry](https://forestry.io/). Sempre que eu faço uma nova alteração no conteúdo, o site gera uma nova compilação estática no servidor. O Forestry tem no seu editor, linguagem de marcação **Markdown**, baseado em Git. 
 
